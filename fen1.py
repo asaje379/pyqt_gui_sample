@@ -16,8 +16,7 @@ btnCss = '''
 class Fen(QWidget):
     
     # Constructeur
-    def __init__(self):
-        
+    def __init__(self):  
         # On appelle le constructeur de la classe mère
         QWidget.__init__(self)
         
