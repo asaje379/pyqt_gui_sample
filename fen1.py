@@ -1,7 +1,6 @@
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from fen2 import Fen2
-import numpy as np
 import matplotlib.pyplot as plt
 
 btnCss = ''' 
